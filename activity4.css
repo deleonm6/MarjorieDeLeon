@@ -1,0 +1,192 @@
+body 
+{
+ background-image:url('background1.jfif');
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+h1{ 
+   border-style:solid;
+   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSMphohGAwr4wBZ_wZZzkJ7G3XmgJwCbnxg&usqp=CAU');
+   border-width: 10px;
+   border-color: pink;
+   font-size: 50px;
+   font-family: Serif;
+   color: pink;
+   font-weight: bold;
+   text-shadow: 5px 5px black;
+   outline-style: outset;
+   outline-color: grey;
+   opacity: 70%; 
+}
+#h3{
+    color: darkmagenta;
+    font-family: monospace;
+    font-weight: lighter;
+    font-size: 20px;
+    width: 75%;
+    margin-left: 0%;
+    margin-right: 12%;
+    margin-top: 7%;
+    position: relative;
+    bottom: 170px;
+    border-style: solid;
+    border-width: 5%;
+    border-color: pink;
+    background-image: url('https://i.pinimg.com/originals/c7/a0/ba/c7a0ba9fe40aca44f660f32fb4ad2545.jpg');
+}
+#h4{
+    color:darkmagenta;
+    font-family: monospace;
+    font-weight: lighter;
+    font-size: 18px;
+    width: 90%;
+    margin-left: 6.5%;
+    margin-right: 7%;
+    margin-top: 7%;
+    position: relative;
+    bottom: 150px;
+    border-style: solid;
+    border-width: 5%;
+    border-color: pink;
+    background-color: beige;
+}
+h3{
+    font-size: 20px;
+    font-family: Courier New;
+    color: darkmagenta;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 5px;
+    text-align-last: justify justify;
+    text-align: center;
+    font-style: monospace;
+    opacity: 10%
+    background-color: rgb(121, 190, 190);
+    text-shadow: 2px 2px 5px white;
+}
+#p2{
+    color: darkmagenta;
+    text-align: center;
+    font-style: Monospace;
+    background-color: pink;
+    border-width: 5px;
+}
+#p3{
+    color: Pink;
+    background-color: grey;
+}
+#p4{
+    color: darkmagenta;
+    width: 150pt;
+    margin-right: 15%;
+    margin-top: 15%;
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+}
+#p5{
+    color: darkmagenta;
+    width: 160pt;
+    margin-left: 20%;
+    margin-top: 0%;
+    position: relative;
+    bottom: 140px;
+    background-color: white;
+}
+#p6{
+    color: darkmagenta;
+    width: 150pt;
+    margin-right: 15%;
+    margin-top: -2%;
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+}
+#p7{
+    color: darkmagenta;
+    width: 160pt;
+    margin-left: 20%;
+    margin-top: 0%;
+    position: relative;
+    bottom: 140px;
+    background-color: white;
+    
+}  
+#p8{
+     color: darkmagenta;
+    width: 150pt;
+    margin-right: 15%;
+    margin-top: -2%;
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+}  
+#p9{
+     color: darkmagenta;
+    width: 160pt;
+    margin-left: 20%;
+    margin-top: 0%;
+    position: relative;
+    bottom: 140px;
+    background-color: white;
+    
+}
+#p10{
+    color: darkmagenta;
+    width: 150pt;
+    margin-right: 15%;
+    margin-top: -2%;
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+    
+}
+#p11{
+    color: darkmagenta;
+    width: 160pt;
+    margin-left: 20%;
+    margin-top: 0%;
+    position: relative;
+    bottom: 140px;
+    background-color: white;
+}
+#p12{
+    color: darkmagenta;
+    width: 150pt;
+    margin-right: 15%;
+    margin-top: -2%;
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+    
+}
+#p13{
+    color: darkmagenta;
+    width: 160pt;
+    margin-left: 20%;
+    margin-top: 0%;
+    position: relative;
+    bottom: 140px;
+    background-color: white;
+}
+#p14{
+    color: magenta;
+    text-align: center;
+    font-style: Monospace;
+    background-color: #CCEEFF;
+    border-width: 5px;
+}
+#p15{
+    color: cornflowerblue;
+    background-color: whitesmoke;
+}
